@@ -1,0 +1,8 @@
+.card-model-wrapper{
+  width: 98%;
+  min-height: 80vh;
+  margin: 0 auto;
+  background-color: #333;
+  border-radius: 10px;
+
+}

@@ -1,0 +1,23 @@
+.body-components-container{
+  display: flex;
+  max-width: 1920px;
+  width: 100%;
+  justify-content:space-between;
+  margin-top: 4rem;
+}
+
+.filter-wrapper{
+  width: 25%;
+  height: 100vh;
+  border: 1px solid #fff;
+}
+.section-wrapper{
+  width: 50%;
+  height: 100vh;
+  border: 1px solid #fff;
+}
+.aside-right-wrapper{
+  width: 25%;
+  height: 100vh;
+  border: 1px solid #fff;
+}
